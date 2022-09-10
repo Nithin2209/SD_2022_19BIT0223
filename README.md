@@ -1,5 +1,5 @@
 # Chess
-created by XS
+created by NITHIN SAI
 
 A simple command line chess game using Python
 
