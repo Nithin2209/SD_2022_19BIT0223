@@ -21,3 +21,5 @@ Not currently supported:
  * checking that king does not threaten king
  * checking for checks
  * checking for checkmates
+##snapshot final output of the chess board game
+![image](https://user-images.githubusercontent.com/83778315/189488842-a549578f-d181-4dec-afdc-a1e8d5300adf.png)
