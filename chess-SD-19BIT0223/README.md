@@ -28,3 +28,15 @@ Not currently supported:
 
 
 ![image](https://user-images.githubusercontent.com/83778315/189488842-a549578f-d181-4dec-afdc-a1e8d5300adf.png)
+
+
+
+## approach for the problem statement
+1. first i have taken the three attributes(inputs) chess,board,peice
+2.so in chess code first i have taken that class named chess in that i have taken attributes like board turn and white ghost piece and black ghost peiceand 
+also used the methods promote and move where promote do the action that promoting the pawn that has reached other side or another to the same piece
+and i have also used some extra logic concepts like back tracking to make the moment of the pawn
+3.and finally printing the board
+4.and in the chess code also i have used the same back tracking logic for the target peice finding
+and in the peice code specfically targeting the movements of the peice so here i have taken the functions like check_knight,check_diag_castle,check_diag,check_updown_castle,check_updown, and the peice class for the peice movements
+5.so this the approach that i followed to develop the chess game for the two players with the rules mentioned in the problem statement
